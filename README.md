@@ -6,7 +6,7 @@ Proiectul Offline Messenger are ca scop crearea unei aplicatii de tip client-ser
 ## Caracteristici
 + Arhitectura Client-Server : implementarea unui model client-server care faciliteaza comunicarea dintre utilizatori.
 + Autentificare: Proces de autentificare prin introducerea numelui și parolei.
-+ Creare Cont: Posibilitatea de a crea un cont dacă utilizatorul nu are unul.
++ Creare Cont: Posibilitatea de a crea un cont dacă utilizatorul nu detine unul.
 + Istoric Conversație: Acces la istoricul conversației curente (comanda "istoric").
 + Reply la Mesaje: Posibilitatea de a răspunde la orice mesaj din conversația curentă (comanda "reply id_mesaj | text").
 + Notificare Mesaje: Utilizatorul primește mesaje de la alți utilizatori în timp ce interacționează cu altcineva.
