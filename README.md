@@ -12,8 +12,8 @@ Proiectul Offline Messenger are ca scop crearea unei aplicatii de tip client-ser
 + Notificare Mesaje: Utilizatorul primește mesaje de la alți utilizatori în timp ce interacționează cu altcineva.
 + Thread-uri pentru Conexiuni: Crearea de thread-uri separate pentru a servi fiecare client conectat la server.
 
-  ## Rulare proiect
-  ### Compilare server
-  ### Rulare executabil server
-  ### Compilare client (puteti rula intre 1 - 100 clienti)
-  ### Rulare executabil client
+## Rulare proiect
+### Compilare server
+### Rulare executabil server
+### Compilare client (puteti rula intre 1 - 100 clienti)
+### Rulare executabil client
