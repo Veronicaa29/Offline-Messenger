@@ -13,7 +13,19 @@ Proiectul Offline Messenger are ca scop crearea unei aplicatii de tip client-ser
 + Thread-uri pentru Conexiuni: Crearea de thread-uri separate pentru a servi fiecare client conectat la server.
 
 ## Rulare proiect
-### Compilare server
-### Rulare executabil server
-### Compilare client (puteti rula intre 1 - 100 clienti)
-### Rulare executabil client
+Compilare server.c
+```
+gcc server.c -o server_exec -lpthread - lsqlite3
+```
+Rulare executabil server_exec
+```
+./server_exec
+```
+Compilare client.c (puteti rula+compila intre 1 - 100 clienti)
+```
+gcc client.c - o client_exec
+```
+Rulare executabil client_exec
+```
+./client_exec
+```
