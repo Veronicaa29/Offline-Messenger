@@ -30,4 +30,4 @@ Rulare executabil client_exec
 ./client_exec
 ```
 ## Afisare tabele SQL 
-+ In fisierul creare_baza_de_date.sql : clicl stanga -> Run Query -> select baza_de_date.db.
++ In fisierul creare_baza_de_date.sql : click stanga -> Run Query -> select baza_de_date.db.
